@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SkimmyMilk937
-- 👀 I’m interested in anything that new!
+- 👀 I’m interested in anything that's new!
 - 🌱 I’m currently learning Python, Bash, and CS concenpts.
 - 📫 How to reach me na@cowdeemo.com
 
