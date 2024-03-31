@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkimmyMilk937
 - 👀 I’m interested in anything that's new!
-- 🌱 I’m currently learning Python, Bash, and CS concepts.
+- 🌱 I’m currently learning Python, Java, and CS concepts.
 - 📫 How to reach me na@cowdeemo.com
 
 <!---
