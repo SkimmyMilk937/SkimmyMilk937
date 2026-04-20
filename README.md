@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SkimmyMilk937
+- 👋 Hi, I’m Nic!
 - 👀 I’m interested in anything that's new!
-- 🌱 I’m currently learning Python, Java, and CS concepts.
-- 📫 How to reach me na@cowdeemo.com
+- 🌱 I’m currently learning Computer Design/HDL, Cybersecurity, and programming!
+- 📫 How to reach me nattefat@.com
 
 <!---
 SkimmyMilk937/SkimmyMilk937 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
